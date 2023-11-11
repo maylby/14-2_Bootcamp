@@ -1,0 +1,14 @@
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\bin\Debug\net7.0\Programming02.exe
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\bin\Debug\net7.0\Programming02.deps.json
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\bin\Debug\net7.0\Programming02.runtimeconfig.json
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\bin\Debug\net7.0\Programming02.dll
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\bin\Debug\net7.0\Programming02.pdb
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.AssemblyInfo.cs
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.dll
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\refint\Programming02.dll
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.pdb
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\Programming02.genruntimeconfig.cache
+C:\Users\Vitaliy\GeekBrains\14-2_Bootcamp\Programming02\obj\Debug\net7.0\ref\Programming02.dll
