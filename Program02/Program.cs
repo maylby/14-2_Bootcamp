@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Буткемп. Программирование
+// Урок 2. Алгоритмы в C# . Эффективность алгоритма
+// https://gb.ru/lessons/375187
+
