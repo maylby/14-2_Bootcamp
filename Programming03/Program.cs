@@ -28,3 +28,44 @@
 //     summa += array[i]; // Вариант записи кода без фигурных скобок (см. пояснение выше)
 // System.Console.WriteLine(summa); 
 // // O(n) - число операций равно "n" (количество элементов массива)
+
+
+// // 00:20:35
+// // Сортировка пузырьком
+// // O(n^2) -> Число операций "n" в квадрате
+
+// // Таблица умножения
+
+// int n = Convert.ToInt32(Console.ReadLine());
+// for (int i = 0; i <= n; i++)
+// {
+//     for (int j = 1; j <= n; j++)
+//     {
+//         System.Console.Write(i * j);
+//         System.Console.Write("\t"); // форматированный вывод с табуляцией
+//     }
+//     System.Console.WriteLine();
+// }
+
+// // Упрощение (сокращение времени вычисления за счёт удаления повторов)
+
+int n = Convert.ToInt32(Console.ReadLine());
+int[, ] matrix = new int[n, n];
+for (int i = 0; i < n; i++)
+{
+    for (int j = i; j < n; j++)
+    {
+        matrix[i, j] = (i + 1) * (j + 1); 
+        matrix[j, i] = (i + 1) * (j + 1); 
+    }
+    Console.WriteLine(); // Данная строка кода лишняя
+} // при удалении строки выше, данная скобка не нужна 
+for (int i = 0; i < n; i++) // Данная строка кода лишняя
+{ // при удалении строки выше, данная скобка не нужна 
+    for (int j = 0; j < n; j++)
+    {
+        System.Console.Write(matrix[i, j]);
+        System.Console.Write("\t");
+    }
+    System.Console.WriteLine();
+}
