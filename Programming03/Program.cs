@@ -49,23 +49,23 @@
 
 // // Упрощение (сокращение времени вычисления за счёт удаления повторов)
 
-int n = Convert.ToInt32(Console.ReadLine());
-int[, ] matrix = new int[n, n];
-for (int i = 0; i < n; i++)
-{
-    for (int j = i; j < n; j++)
-    {
-        matrix[i, j] = (i + 1) * (j + 1); 
-        matrix[j, i] = (i + 1) * (j + 1); 
-    }
-    Console.WriteLine(); // Данная строка кода лишняя
-} // при удалении строки выше, данная скобка не нужна 
-for (int i = 0; i < n; i++) // Данная строка кода лишняя
-{ // при удалении строки выше, данная скобка не нужна 
-    for (int j = 0; j < n; j++)
-    {
-        System.Console.Write(matrix[i, j]);
-        System.Console.Write("\t");
-    }
-    System.Console.WriteLine();
-}
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[, ] matrix = new int[n, n];
+// for (int i = 0; i < n; i++)
+// {
+//     for (int j = i; j < n; j++)
+//     {
+//         matrix[i, j] = (i + 1) * (j + 1); 
+//         matrix[j, i] = (i + 1) * (j + 1); 
+//     }
+//     Console.WriteLine(); // Данная строка кода лишняя
+// } // при удалении строки выше, данная скобка не нужна 
+// for (int i = 0; i < n; i++) // Данная строка кода лишняя
+// { // при удалении строки выше, данная скобка не нужна 
+//     for (int j = 0; j < n; j++)
+//     {
+//         System.Console.Write(matrix[i, j]);
+//         System.Console.Write("\t");
+//     }
+//     System.Console.WriteLine();
+// }
